@@ -1,0 +1,23 @@
+title: Srinidhi Ramesam
+description: Final-Year B.A., LL.B. (Hons.) Student | Legal Researcher | Aspiring Litigator
+baseurl: ""
+url: "https://yourusername.github.io"
+
+theme: minima
+
+author:
+  name: Srinidhi Ramesam
+  email: srinidhiramesam@gmail.com
+
+header_pages:
+  - index.md
+  - about.md
+  - experience.md
+  - education.md
+  - publications.md
+  - certifications.md
+  - languages.md
+  - personal-information.md
+
+minima:
+  skin: classic
